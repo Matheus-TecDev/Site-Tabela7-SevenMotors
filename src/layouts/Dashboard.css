@@ -1,0 +1,30 @@
+/* Layout Principal - Sem espaçamento */
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1;
+    padding-top: 0; /* Removido completamente */
+    margin-top: 0; /* Removido completamente */
+}
+
+/* Tabela colada no header */
+.animated-section {
+    padding: 0; /* Removido */
+    margin: 0; /* Removido */
+    width: 100%;
+}
+
+/* Header ajustado */
+.header-container {
+    height: 50px; /* Altura fixa */
+    /* outros estilos permanecem */
+}
+
+/* Ajuste do body */
+body {
+    padding-top: 0 !important; /* Removido */
+}
