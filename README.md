@@ -62,7 +62,7 @@ Entrar na pasta
 
 Método simples: abrir index.html no navegador.
 	
-    Melhor experiência: usar a extensão Live Server (VS Code).
+Melhor experiência: usar a extensão Live Server (VS Code).
 	
 
 Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) para evitar bloqueios de CORS.
@@ -95,4 +95,5 @@ Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) p
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)
+
 📫 Contato: matheus.tecnodev@gmail.com
