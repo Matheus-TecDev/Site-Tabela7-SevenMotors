@@ -10,7 +10,7 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 ## 🎮 Preview
 
-![Preview](images/Seven.png)
+![Preview](./Images/Seven.png)
 
 👉 [Acessar o projeto](https://site-freelance-seven-motors.vercel.app/)
 
@@ -54,13 +54,15 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 1. **Clonar o repositório**
 
-git clone https://github.com/Matheus-TecDev/Site-Freelance-SevenMotors.git
+    git clone https://github.com/Matheus-TecDev/Site-Freelance-SevenMotors.git
 
 Entrar na pasta
-	cd TabelaVeiculos7
+
+    cd TabelaVeiculos7
 
 Método simples: abrir index.html no navegador.
-	Melhor experiência: usar a extensão Live Server (VS Code).
+	
+    Melhor experiência: usar a extensão Live Server (VS Code).
 	
 
 Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) para evitar bloqueios de CORS.
