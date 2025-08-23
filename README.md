@@ -10,7 +10,7 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 ## 🎮 Preview
 
-![Preview](images/Seven.png)
+![Preview](./Images/Seven.png)
 
 👉 [Acessar o projeto](https://site-freelance-seven-motors.vercel.app/)
 
@@ -90,4 +90,5 @@ Envie um Pull Request com melhorias (descrição clara + prints/gifs).
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)
+
 📫 Contato: matheus.tecnodev@gmail.com
