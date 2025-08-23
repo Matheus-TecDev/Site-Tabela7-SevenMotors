@@ -10,11 +10,13 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 ## 🎮 Preview
 
-![Preview](./Images/Seven.png)
+![Preview](images/Seven.png)
 
 👉 [Acessar o projeto](https://site-freelance-seven-motors.vercel.app/)
 
 [![Deploy na Vercel](https://vercel.com/button)](https://site-freelance-seven-motors.vercel.app/)
+
+
 
 ---
 
@@ -55,40 +57,40 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 git clone https://github.com/Matheus-TecDev/Site-Freelance-SevenMotors.git
 
 Entrar na pasta
-
-cd TabelaVeiculos7
+	cd TabelaVeiculos7
 
 Método simples: abrir index.html no navegador.
-
-Melhor experiência: usar a extensão Live Server (VS Code).
+	Melhor experiência: usar a extensão Live Server (VS Code).
+	
 
 Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) para evitar bloqueios de CORS.
 
 🤝 Contribuição
-Sugestões são bem-vindas!
+	
+	Sugestões são bem-vindas!
 
-Abra uma issue para bugs/ideias.
+	Abra uma issue para bugs/ideias.
 
-Envie um Pull Request com melhorias (descrição clara + prints/gifs).
+	Envie um Pull Request com melhorias (descrição clara + prints/gifs).
 
 📌 Roadmap
- Persistir filtros no localStorage.
+	 
+	 Persistir filtros no localStorage.
 
- Paginação ou lazy loading.
+	 Paginação ou lazy loading.
 
- Favoritos/salvos.
+	 Favoritos/salvos.
 
- Exportar tabela em CSV/Excel.
+	 Exportar tabela em CSV/Excel.
 
- Integração com API/planilha externa.
+	 Integração com API/planilha externa.
 
- Tema dark/light.
+	 Tema dark/light.
 
- PWA (instalável/offline básico).
+	 PWA (instalável/offline básico).
 
 ## 👨‍💻 Autores
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)
-
 📫 Contato: matheus.tecnodev@gmail.com
