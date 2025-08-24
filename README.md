@@ -69,27 +69,37 @@ Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) p
 
 🤝 Contribuição
 	
-	Sugestões são bem-vindas!
 
-	Abra uma issue para bugs/ideias.
+Sugestões são bem-vindas!
 
-	Envie um Pull Request com melhorias (descrição clara + prints/gifs).
+
+Abra uma issue para bugs/ideias.
+
+
+Envie um Pull Request com melhorias ( com descrição clara + prints).
 
 📌 Roadmap
 	 
-	 Persistir filtros no localStorage.
 
-	 Paginação ou lazy loading.
+Persistir filtros no localStorage.
 
-	 Favoritos/salvos.
 
-	 Exportar tabela em CSV/Excel.
+Paginação ou lazy loading.
 
-	 Integração com API/planilha externa.
 
-	 Tema dark/light.
+Favoritos/salvos.
 
-	 PWA (instalável/offline básico).
+
+Exportar tabela em CSV/Excel.
+
+
+Integração com API/planilha externa.
+
+
+Tema dark/light.
+
+
+PWA (instalável/offline básico).
 
 ## 👨‍💻 Autores
 
