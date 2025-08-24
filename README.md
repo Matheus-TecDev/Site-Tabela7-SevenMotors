@@ -67,6 +67,8 @@ Melhor experiência: usar a extensão Live Server (VS Code).
 
 Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) para evitar bloqueios de CORS.
 
+---
+
 🤝 Contribuição
 	
 
@@ -77,6 +79,8 @@ Abra uma issue para bugs/ideias.
 
 
 Envie um Pull Request com melhorias ( com descrição clara + prints).
+
+---
 
 📌 Roadmap
 	 
@@ -100,6 +104,8 @@ Tema dark/light.
 
 
 PWA (instalável/offline básico).
+
+---
 
 ## 👨‍💻 Autores
 
