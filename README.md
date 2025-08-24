@@ -12,9 +12,9 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 ![Preview](./Images/Seven.png)
 
-👉 [Acessar o projeto](https://site-freelance-seven-motors.vercel.app/)
+👉 [Acessar o projeto](https://site-tabela7-seven-motors.vercel.app/)
 
-[![Deploy na Vercel](https://vercel.com/button)](https://site-freelance-seven-motors.vercel.app/)
+[![Deploy na Vercel](https://vercel.com/button)](https://site-tabela7-seven-motors.vercel.app/)
 
 
 
