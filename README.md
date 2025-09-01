@@ -10,7 +10,7 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 ## 🎮 Preview
 
-![Preview](images/Seven.png)
+![Preview](Images/Seven.png)
 
 👉 [Acessar o projeto](https://site-freelance-seven-motors.vercel.app/)
 
