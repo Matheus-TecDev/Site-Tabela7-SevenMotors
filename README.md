@@ -21,6 +21,7 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 ## 🔗 Repositórios Relacionados
 
 - [Frontend (este repositório)](https://github.com/Matheus-TecDev/Site-Tabela7-SevenMotors.git)
+- [Frontend (Aplicativo em Expo)](https://github.com/Matheus-TecDev/Site-Tabela7-SevenMotors.git)
 - [Backend (API)](https://github.com/Matheus-TecDev/Seven-Motors-Backend.git)
 
 ---
