@@ -21,7 +21,7 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 ## 🔗 Repositórios Relacionados
 
 - [Frontend (este repositório)](https://github.com/Matheus-TecDev/Site-Tabela7-SevenMotors.git)
-- [Frontend (Aplicativo em Expo)](https://github.com/Matheus-TecDev/Site-Tabela7-SevenMotors.git)
+- [Frontend (Aplicativo em Expo)](https://github.com/Matheus-TecDev/App-Tabela7-Frontend.git)
 - [Backend (API)](https://github.com/Matheus-TecDev/Seven-Motors-Backend.git)
 
 ---
@@ -106,4 +106,4 @@ PWA (instalável/offline básico).
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)
 
-📫 Contato: matheus.tecnodev@gmail.com
+📫 Contato: [matheus.tecnodev@gmail.com](mailto:matheus.tecnodev@gmail.com)
