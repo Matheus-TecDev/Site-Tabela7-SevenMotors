@@ -18,6 +18,13 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 ---
 
+## 🔗 Repositórios Relacionados
+
+- [Frontend (este repositório)](https://github.com/Matheus-TecDev/Site-Tabela7-SevenMotors.git)
+- [Backend (API)](https://github.com/Matheus-TecDev/Seven-Motors-Backend.git)
+
+---
+
 ## ⚡ Funcionalidades
 
 - Listagem de veículos com preço, ano, quilometragem e status.
@@ -40,53 +47,56 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 ---
 
 ## 🛠️ Tecnologias
-- **React 18**
+- **React**
 - **Vite**
-- **JavaScript (ES6+)**
+- **JavaScript**
 - **CSS3**
-- **Node.js + npm**
 
 ---
 
 ## 🚀 Como usar
 
 1. **Clonar o repositório**
-
+	
+	```bash
 	git clone https://github.com/Matheus-TecDev/Site-Freelance-SevenMotors.git
 
 2. **Entrar na pasta**
-
+	
+	```bash
 	cd TabelaVeiculos7
 
 3. **Método simples: abrir index.html no navegador.**
+
 4. **Melhor experiência: usar a extensão Live Server (VS Code).**
+
 5. **Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) para evitar bloqueios de CORS.**
 
 ---
 
 ## 🤝 Contribuição
 	
-	Sugestões são bem-vindas!
+Sugestões são bem-vindas!
 
-	Abra uma issue para bugs/ideias.
+Abra uma issue para bugs/ideias.
 	
 ---
 
 ## 📌 Roadmap
 	 
-	 Persistir filtros no localStorage.
+Persistir filtros no localStorage.
 
-	 Paginação ou lazy loading.
+Paginação ou lazy loading.
 
-	 Favoritos/salvos.
+Favoritos/salvos.
 
-	 Exportar tabela em CSV/Excel.
+Exportar tabela em CSV/Excel.
 
-	 Integração com API/planilha externa.
+Integração com API/planilha externa.
 
-	 Tema dark/light.
+Tema dark/light.
 
-	 PWA (instalável/offline básico).
+PWA (instalável/offline básico).
 
 ---	 
 
@@ -94,4 +104,5 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)
+
 📫 Contato: matheus.tecnodev@gmail.com
