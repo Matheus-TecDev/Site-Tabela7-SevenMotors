@@ -1,4 +1,4 @@
-# 🚗 Site de Tabela de Veículos — Seven Motors
+# 🗃️ Site de Tabela de Veículos — Seven Motors
 
 ## 📖 Descrição
 
@@ -10,13 +10,11 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 ## 🎮 Preview
 
-![Preview](./Images/Seven.png)
+![Preview](images/Seven.png)
 
-👉 [Acessar o projeto](https://site-tabela7-seven-motors.vercel.app/)
+👉 [Acessar o projeto](https://site-freelance-seven-motors.vercel.app/)
 
-[![Deploy na Vercel](https://vercel.com/button)](https://site-tabela7-seven-motors.vercel.app/)
-
-
+[![Deploy na Vercel](https://vercel.com/button)](https://site-freelance-seven-motors.vercel.app/)
 
 ---
 
@@ -54,62 +52,46 @@ Objetivo: permitir que usuários filtrem, pesquisem e visualizem detalhes de ve�
 
 1. **Clonar o repositório**
 
-    git clone https://github.com/Matheus-TecDev/Site-Freelance-SevenMotors.git
+	git clone https://github.com/Matheus-TecDev/Site-Freelance-SevenMotors.git
 
-Entrar na pasta
+2. **Entrar na pasta**
 
-    cd TabelaVeiculos7
+	cd TabelaVeiculos7
 
-Método simples: abrir index.html no navegador.
-	
-Melhor experiência: usar a extensão Live Server (VS Code).
-	
-
-Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) para evitar bloqueios de CORS.
+3. **Método simples: abrir index.html no navegador.**
+4. **Melhor experiência: usar a extensão Live Server (VS Code).**
+5. **Se usar fetch para data/veiculos.json, prefira um servidor local (Live Server) para evitar bloqueios de CORS.**
 
 ---
 
-🤝 Contribuição
+## 🤝 Contribuição
 	
+	Sugestões são bem-vindas!
 
-Sugestões são bem-vindas!
-
-
-Abra uma issue para bugs/ideias.
-
-
-Envie um Pull Request com melhorias ( com descrição clara + prints).
-
+	Abra uma issue para bugs/ideias.
+	
 ---
 
-📌 Roadmap
+## 📌 Roadmap
 	 
+	 Persistir filtros no localStorage.
 
-Persistir filtros no localStorage.
+	 Paginação ou lazy loading.
 
+	 Favoritos/salvos.
 
-Paginação ou lazy loading.
+	 Exportar tabela em CSV/Excel.
 
+	 Integração com API/planilha externa.
 
-Favoritos/salvos.
+	 Tema dark/light.
 
+	 PWA (instalável/offline básico).
 
-Exportar tabela em CSV/Excel.
-
-
-Integração com API/planilha externa.
-
-
-Tema dark/light.
-
-
-PWA (instalável/offline básico).
-
----
+---	 
 
 ## 👨‍💻 Autores
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)
-
 📫 Contato: matheus.tecnodev@gmail.com
